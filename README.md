@@ -1,4 +1,4 @@
-![Project Banner](https://images2.imgbox.com/5c/f2/WMOQiUNn_o.png)
+![Project Banner](https://images2.imgbox.com/e4/5b/QRHjv9bR_o.png)
 
 # 🛡️ ZeroTemptation
 
