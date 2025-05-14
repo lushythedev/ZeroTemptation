@@ -1,3 +1,5 @@
+![Project Banner](https://images2.imgbox.com/77/e9/LXSEGyvD_o.png)
+
 # 🛡️ ZeroTemptation
 
 A cross-platform command-line tool for managing your system's hosts file with ease. Block domains associated with adware, malware, fake news, gambling, adult content, and social media using unified and customizable host lists.
