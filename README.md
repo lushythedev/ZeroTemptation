@@ -64,6 +64,32 @@ python3 hosts_manager.py
 ```
 **Note**: You may need elevated privileges (sudo) to modify the system's hosts file.
 
+# Windows Tutorial:
+  - **Step 1**: Clone the Repository
+  - First, open Command Prompt and clone the repository:
+  - `git clone https://github.com/lushythedev/ZeroTemptation.git`
+  - **Step 2**: Navigate to the Project Directory
+  - Change to the project directory:
+  - `cd ZeroTemptation`
+**Step 3**: Run Command Prompt as Administrator
+  - To run the script with administrator privileges, you need to restart Command Prompt as administrator:
+  - Close your current Command Prompt window
+  - Press the Windows key
+  - Type "cmd"
+  - Right-click on "Command Prompt" in the search results
+  - Select "Run as administrator"
+  - Click "Yes" when the User Account Control (UAC) prompt appears
+
+**Step 4**: Navigate Back to the Project Directory
+  - In the new administrator Command Prompt, navigate back to where you cloned the repository:
+  - `cd C:\path\to\ZeroTemptation`
+  - Replace `C:\path\to\` with the actual path where you cloned the repository.
+**Step 5**: Run the Script
+  - Now run the Python script with administrator privileges:
+  - `python hosts_manager.py`
+**Or if you have multiple Python versions installed**:
+  - `python3 hosts_manager.py`
+
 🧠 Inspiration
 Inspired by community-driven host list projects such as:
 - [Steven Black's Unified Hosts](https://github.com/lushythedev/ZeroTemptation.git)
